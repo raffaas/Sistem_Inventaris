@@ -1,0 +1,38 @@
+{
+    "name": "INVENTRA - Sistem Inventaris Ruangan",
+    "short_name": "INVENTRA",
+    "description": "INVENTRA membantu Anda mengelola inventaris ruangan sekolah secara digital: catat, cari, dan pantau kondisi barang dengan mudah, cepat, dan terorganisir.",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#EFF6FF",
+    "theme_color": "#1D4ED8",
+    "lang": "id",
+    "icons": [
+      {
+        "src": "icons/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "icons/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "icons/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "icons/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+  }
